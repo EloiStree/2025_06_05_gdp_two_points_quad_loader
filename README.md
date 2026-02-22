@@ -1,2 +1,5 @@
 # 2025_06_05_gdp_two_points_quad_loader
-Load Godot Scene from horizontal or vertical square in real life like A4 paper.
+
+> Load Godot Scene from horizontal or vertical square in real life like A4 paper.
+
+See: https://github.com/EloiStree/2025_06_05_upm_two_points_quad_loader
